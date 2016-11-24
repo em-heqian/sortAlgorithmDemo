@@ -18,6 +18,6 @@ function insertSort(A){
 }
 
 
-
+//主分支
 var arr = [1,2,3,2,3,4,666,66,72,5,2,4,6,8,1];
 insertSort(arr);
